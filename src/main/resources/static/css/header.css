@@ -1,0 +1,5 @@
+header {
+    grid-area: header;
+    background: #53a199;
+    text-align: center;
+}
